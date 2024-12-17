@@ -1,4 +1,6 @@
-from tkinter import Tk, Label, Entry, Button, messagebox
+from tkinter import *
+from tkinter import ttk
+from tkinter import messagebox
 from gtts import gTTS
 import os
 def play_speech():
